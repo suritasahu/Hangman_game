@@ -1,0 +1,1 @@
+word_list = ["apple","banana","chips","laduu", "melon", "lichi", "orange", "chiku", "citrus",  "plum", "mandarin"]
